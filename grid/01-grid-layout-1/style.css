@@ -5,8 +5,8 @@ body, html {
 
 .container {
   display: grid;
-  grid-template-columns: 1fr 4fr;
-  grid-template-rows: 1fr 1fr 6fr 1fr;
+  grid-template-columns: 350px 1430px;
+  grid-template-rows: 150px 150px 750px 150px;
   gap: 15px;
   text-align: center;
   height: 100%;
